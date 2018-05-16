@@ -1,0 +1,13 @@
+.\build\i2c_lpc17xx.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.4.0\RTE_Driver\I2C_LPC17xx.c
+.\build\i2c_lpc17xx.o: mbed_config.h
+.\build\i2c_lpc17xx.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.4.0\RTE_Driver\I2C_LPC17xx.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/TARGET_NXP/TARGET_LPC176X/device/LPC17xx.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/core_cm3.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/cmsis_version.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/cmsis_compiler.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/cmsis_armcc.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/mpu_armv7.h
+.\build\i2c_lpc17xx.o: mbed/TARGET_ARCH_PRO/TARGET_NXP/TARGET_LPC176X/device/system_LPC17xx.h
+.\build\i2c_lpc17xx.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.4.0\RTE_Driver\PIN_LPC17xx.h
+.\build\i2c_lpc17xx.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Driver\Include\Driver_I2C.h
+.\build\i2c_lpc17xx.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Driver\Include\Driver_Common.h
